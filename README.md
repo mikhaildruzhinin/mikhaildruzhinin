@@ -20,7 +20,10 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
 
-![Mikhail' github stats](https://github-readme-stats.vercel.app/api?username=mikhaildruzhinin&show_icons=true)
+<br>
+<br>
+
+![Mikhail' github stats](https://github-readme-stats.vercel.app/api?username=mikhaildruzhinin&show_icons=true&hide_border=true)
 
 <!--
 **mikhaildruzhinin/mikhaildruzhinin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
