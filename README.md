@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-## My skills:
+### My skills:
 
-### Languages
+#### Languages
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
@@ -11,7 +11,7 @@
     
 </div>
 
-### Frameworks and libraries
+#### Frameworks and libraries
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>
@@ -20,7 +20,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-plain-wordmark.svg" title="JUnit" alt="JUnit" width="40" height="40"/>
 </div>
 
-### Databases and messaging
+#### Databases and messaging
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="40" height="40"/>
@@ -28,14 +28,14 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Kafka" alt="Kafka" width="40" height="40"/>
 </div>
 
-### Containerisation and deployment 
+#### Containerisation and deployment 
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>
 </div>
 
-### Monitoring
+#### Monitoring
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/>
